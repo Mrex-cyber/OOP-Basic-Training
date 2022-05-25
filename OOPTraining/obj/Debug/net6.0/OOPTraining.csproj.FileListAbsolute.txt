@@ -1,0 +1,15 @@
+D:\.NET projects\OOPTraining\OOPTraining\bin\Debug\net6.0\OOPTraining.exe
+D:\.NET projects\OOPTraining\OOPTraining\bin\Debug\net6.0\OOPTraining.deps.json
+D:\.NET projects\OOPTraining\OOPTraining\bin\Debug\net6.0\OOPTraining.runtimeconfig.json
+D:\.NET projects\OOPTraining\OOPTraining\bin\Debug\net6.0\OOPTraining.dll
+D:\.NET projects\OOPTraining\OOPTraining\bin\Debug\net6.0\OOPTraining.pdb
+D:\.NET projects\OOPTraining\OOPTraining\obj\Debug\net6.0\OOPTraining.csproj.AssemblyReference.cache
+D:\.NET projects\OOPTraining\OOPTraining\obj\Debug\net6.0\OOPTraining.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET projects\OOPTraining\OOPTraining\obj\Debug\net6.0\OOPTraining.AssemblyInfoInputs.cache
+D:\.NET projects\OOPTraining\OOPTraining\obj\Debug\net6.0\OOPTraining.AssemblyInfo.cs
+D:\.NET projects\OOPTraining\OOPTraining\obj\Debug\net6.0\OOPTraining.csproj.CoreCompileInputs.cache
+D:\.NET projects\OOPTraining\OOPTraining\obj\Debug\net6.0\OOPTraining.dll
+D:\.NET projects\OOPTraining\OOPTraining\obj\Debug\net6.0\refint\OOPTraining.dll
+D:\.NET projects\OOPTraining\OOPTraining\obj\Debug\net6.0\OOPTraining.pdb
+D:\.NET projects\OOPTraining\OOPTraining\obj\Debug\net6.0\OOPTraining.genruntimeconfig.cache
+D:\.NET projects\OOPTraining\OOPTraining\obj\Debug\net6.0\ref\OOPTraining.dll
